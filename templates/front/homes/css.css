@@ -1,0 +1,72 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+form {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	}
+
+input {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+textarea {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+select {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+ul {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	list-style-type: square;
+	list-style-position: outside;
+}
+
+li {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+ol {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	list-style-type: decimal;
+	list-style-position: outside;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.small {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+.big {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+.bodystyle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}

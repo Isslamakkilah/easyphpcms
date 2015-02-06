@@ -1,0 +1,96 @@
+<HTML>
+<HEAD>
+<!-- #BeginEditable "doctitle" -->
+<TITLE>Site Title</TITLE>
+<!-- #EndEditable -->
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<STYLE TYPE="TEXT/CSS">
+<STYLE TYPE="TEXT/CSS">
+<!--
+
+A { text-decoration: none }
+
+
+A {color:#ffffff; font-family: Helvetica, Arial; font-size: 12px; text-decoration: none;}
+A:hover {color:#99ff00; font-family: Helvetica, Arial; font-size: 12px; text-decoration: none;}
+
+td {font-family: Helvetica, Arial; font-size: 11px;}
+.linkcell { padding-left: 10px; font-family: Helvetica, Arial; font-size: 10px;}
+hr {  color: #000000}
+
+//.unnamed1 {  font-family: Arial, Helvetica, sans-serif; font-size: small}
+-->
+
+
+</STYLE>
+</HEAD>
+<BODY BGCOLOR=#FFFFFF background="../images/content_background.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<TABLE WIDTH=740 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+  <TR> 
+    <TD valign="top" width="10" height="98"> <IMG SRC="../images/content_image.jpg" WIDTH=130 HEIGHT=153></TD>
+    <TD rowspan="2" valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="50" valign="bottom"><font size="3" face="Arial, Helvetica, sans-serif"><font color="#333333" size="5"><b>&nbsp;&nbsp;Your 
+            Web Site Title</b></font></font></td>
+        </tr>
+        <tr> 
+          <td height="25"> 
+            <div align="right"><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">| 
+              <a href="../index.html">Home</a> | News | Coach's Portfile | Team 
+              Members | Game Schedule | Awards | Contact Us |</font></div>
+          </td>
+        </tr>
+        <tr> 
+          <td> <!-- #BeginEditable "content" -->
+            <table width="100%" border="0" cellspacing="3" cellpadding="3">
+              <tr> 
+                <td> 
+                  <p><font size="3"><b><font size="2" color="#FFFF00">Your Sub 
+                    Heading Goes Here</font></b></font></p>
+                  <p><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. Your 
+                    content text goes here. Your content text goes here. Your 
+                    content text goes here. Your content text goes here. </font></p>
+                  <p><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. </font><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. </font><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. </font><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. </font><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. </font><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. </font><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. </font><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. </font></p>
+                  <p><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. </font><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. </font><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. </font><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. </font><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. </font></p>
+                  <p><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. </font></p>
+                  <p><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. </font><font size="2" color="#FFFFFF" face="Arial, Helvetica, sans-serif">Your 
+                    content text goes here. Your content text goes here. </font></p>
+                  <p>&nbsp;</p>
+                </td>
+              </tr>
+            </table>
+            <!-- #EndEditable --></td>
+        </tr>
+      </table>
+    </TD>
+  </TR>
+  <TR> 
+    <TD width="10" height="16" valign="top">&nbsp; </TD>
+  </TR>
+  <TR> 
+    <TD colspan="2" height="16" valign="top">
+      <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">| 
+        <a href="../index.html">Home</a> | News | Coach's Portfile | Team Members 
+        | Game Schedule | Awards | Contact Us |</font></div>
+    </TD>
+  </TR>
+</TABLE>
+</BODY>
+</HTML>

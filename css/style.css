@@ -1,0 +1,79 @@
+BODY,TD 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #333333;
+	font-size: 13px;
+}
+
+A:visited, A:link
+{
+	color: #0066CC;
+	text-decoration: none;
+}
+
+A:hover
+{
+	color: #FF33FF;
+	text-decoration: underline;
+}
+
+.title
+{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #708090;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.cat
+{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color: #99FFFF;
+	font-weight: bold;
+}
+
+.head
+{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #3366CC;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.sub
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.foot
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+.ButtonLink
+{
+	cursor: hand;
+	width: 180px;
+	margin-top: 5px;
+	margin-bottom: 1px;
+	font-family: Tahoma;
+	font-weight: bold;
+	display: inline-block;
+	padding: 2 5 2 5;
+	border: 1px solid black;
+	font-weight: bold;
+	text-align: left;
+	font-size: 12px;
+	vertical-align: bottom;
+	text-decoration: none;
+	background-color: #F5F5F5;
+}
+
+.ButtonLink:Hover
+{
+	background-color: #999999;
+	color: white;
+	text-decoration: none;
+}

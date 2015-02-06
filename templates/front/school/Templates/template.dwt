@@ -1,0 +1,134 @@
+<HTML>
+<HEAD>
+<!-- #BeginEditable "doctitle" -->
+<TITLE>Site Title</TITLE>
+<!-- #EndEditable -->
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</HEAD>
+<BODY BGCOLOR=#FFFFFF leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('../images/but_home_r.gif','../images/but_email_r.gif')">
+<TABLE WIDTH=100% BORDER=0 CELLPADDING=0 CELLSPACING=0>
+  <TR> 
+    <TD width="16%"> <IMG SRC="../images/spacer.gif" WIDTH=156 HEIGHT=1></TD>
+    <TD width="1%"> <IMG SRC="../images/spacer.gif" WIDTH=14 HEIGHT=1></TD>
+    <TD width="27%"> <IMG SRC="../images/spacer.gif" WIDTH=168 HEIGHT=1></TD>
+    <TD width="29%"> <IMG SRC="../images/spacer.gif" WIDTH=261 HEIGHT=1></TD>
+    <TD width="7%"> <IMG SRC="../images/spacer.gif" WIDTH=84 HEIGHT=1></TD>
+    <TD width="15%"> <IMG SRC="../images/spacer.gif" WIDTH=57 HEIGHT=1></TD>
+  </TR>
+  <TR> 
+    <TD colspan="3"> <IMG SRC="../images/top_corner.jpg" WIDTH=156 HEIGHT=52><IMG SRC="../images/content_image.jpg" WIDTH=182 HEIGHT=52></TD>
+    <TD COLSPAN=3> 
+      <div align="right"><font color="#000000" face="Arial, Helvetica, sans-serif" size="6"><b>Your 
+        Company Name</b></font>&nbsp;&nbsp; </div>
+    </TD>
+  </TR>
+  <TR> 
+    <TD width="16%" background="../images/content_05.gif"> <IMG SRC="../images/md_corner.jpg" WIDTH=156 HEIGHT=28></TD>
+    <TD width="1%" background="../images/content_05.gif"> 
+      <div align="right"><IMG SRC="../images/content_05.gif" WIDTH=14 HEIGHT=28></div>
+    </TD>
+    <TD COLSPAN=4 background="../images/content_05.gif"> 
+      <div align="right"><font size="2" face="Arial, Helvetica, sans-serif" color="#FFFFFF">|</font><font size="2" face="Arial, Helvetica, sans-serif" color="#FFFFFF"> 
+        About Us | Services | Products | Support &amp; FAQ | Contact | Site Map 
+        |&nbsp;&nbsp;</font></div>
+    </TD>
+  </TR>
+  <TR> 
+    <TD ROWSPAN=2 valign="top"> <IMG SRC="../images/bottom_corner.jpg" WIDTH=156 HEIGHT=111> 
+      <table width="90%" border="0" cellspacing="2" cellpadding="2" align="center">
+        <tr> 
+          <td width="11%"><img src="../images/bullet.gif" width="6" height="6"></td>
+          <td width="89%"><font face="Arial, Helvetica, sans-serif" size="2">Sub-link 
+            1 </font></td>
+        </tr>
+        <tr> 
+          <td width="11%"><img src="../images/bullet.gif" width="6" height="6"></td>
+          <td width="89%"><font size="2" face="Arial, Helvetica, sans-serif">Sub-link 
+            2 </font></td>
+        </tr>
+        <tr> 
+          <td width="11%"><img src="../images/bullet.gif" width="6" height="6"></td>
+          <td width="89%"><font size="2" face="Arial, Helvetica, sans-serif">Sub-link 
+            3 </font></td>
+        </tr>
+        <tr> 
+          <td width="11%"><img src="../images/bullet.gif" width="6" height="6"></td>
+          <td width="89%"><font size="2" face="Arial, Helvetica, sans-serif">Sub-link 
+            4 </font></td>
+        </tr>
+        <tr> 
+          <td width="11%"><img src="../images/bullet.gif" width="6" height="6"></td>
+          <td width="89%"><font size="2" face="Arial, Helvetica, sans-serif">Sub-link 
+            5 </font></td>
+        </tr>
+      </table>
+    </TD>
+    <TD COLSPAN=3>&nbsp; </TD>
+    <TD colspan="2" valign="top"> 
+      <div align="right"><a href="../index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image1','','../images/but_home_r.gif',1)"><IMG SRC="../images/but_home.gif" WIDTH=84 HEIGHT=21 border="0" name="Image1"></a><a href="javascript:;" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image2','','../images/but_email_r.gif',1)"><IMG SRC="../images/but_email.gif" WIDTH=57 HEIGHT=21 border="0" name="Image2"></a></div>
+    </TD>
+  </TR>
+  <TR> 
+    <TD COLSPAN=5 height="300" valign="top"> <!-- #BeginEditable "content" --> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td>
+            <p><font size="4" face="Arial, Helvetica, sans-serif"><b><font color="#CC6600">Sub-Heading 
+              </font></b></font></p>
+            <p><font size="2" face="Arial, Helvetica, sans-serif">This is the 
+              conent or product image area.</font></p>
+      </td>
+        </tr>
+      </table>
+      <!-- #EndEditable -->
+<p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      </TD>
+  </TR>
+</TABLE>
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <div align="center">
+        <p><font size="2" face="Arial, Helvetica, sans-serif">| Home | About Us 
+          | Services | Products | Support &amp; FAQ | Contact | Site Map |</font></p>
+        <p>&nbsp;</p>
+      </div>
+    </td>
+  </tr>
+</table>
+</BODY>
+</HTML>

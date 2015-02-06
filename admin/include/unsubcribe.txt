@@ -1,0 +1,9 @@
+<p>Dear Visitor,</p>
+
+<p>
+You have been unsubscribed from our mailing list and will no longer receive our newsletters. 
+If you wish to subscribe with us again please fill in our 
+<a href=http://invest.tvudac.com/main.php?page=contact>Contact Us</a> form
+</p>
+
+<p>This is an automatic email please do not reply.</p>

@@ -1,0 +1,14 @@
+<p>Thank you for contacting us.</p>
+<p>Your feedback has been received and we will get back to as soon as possible.</p>
+
+<p>
+At the Investing in Tasmania Website you will find useful information about the exciting opportunities and the benefits of making invesments in Tasmania.
+This website is a project of Department of Economic Development which aims to promote investing in Tasmania and to provide as much information as possible to visitors regarding investment in Tasmania.
+</p>
+
+<p>
+You received this email because you have subscribed to our mailing list. 
+If you wish to unsubcribe please click <a href=http://invest.tvudac.com/main.php?page=unsub>HERE</a>
+</p>
+
+<p>This is an automatic email please do not reply.</p>

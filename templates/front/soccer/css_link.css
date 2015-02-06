@@ -1,0 +1,24 @@
+<STYLE TYPE="TEXT/CSS">
+
+@import url("text.css");
+
+A { text-decoration: none }
+
+
+A {color:#ffffff; font-family: Helvetica, Arial; font-size: 11px; text-decoration: strong;}
+A:hover {color:#FF9900; font-family: Helvetica, Arial; font-size: 11px; text-decoration: strong;}
+
+td {font-family: Helvetica, Arial; font-size: 11px;}
+.linkcell {
+	padding-left: 10px;
+	text-decoration: bold;
+	font-family: Helvetica, Arial;
+	font-size: 10px;
+}
+hr {  color: #000000}
+
+//.unnamed1 {  font-family: Arial, Helvetica, sans-serif; font-size: small}
+
+
+
+</STYLE>
